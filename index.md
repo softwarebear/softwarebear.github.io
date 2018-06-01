@@ -5,8 +5,8 @@ layout: default
 ```cpp
 #include <iostream>
 
-void main()
+int main()
 {
-    std::cout << "Hello World" << std::end;
+    std::cout << "Hello World" << std::endl;
 }
 ```
