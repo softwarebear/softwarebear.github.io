@@ -47,7 +47,22 @@
         <hr>
       </div>
 
-      {{ content }}
+      <div id="content">
+        {{ content }}
+      </div>
+
+      <div id="blog">
+
+        <h3>Ramblings and meanderings ...</h3>
+
+        <ul>
+          {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.date | date: "%Y-%M-%d" }} {{ post.title }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
 
     </section>
 
