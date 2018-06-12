@@ -9,4 +9,4 @@ It has taken a little bit of googling to find out how to add posts to my lovely 
 
 So I have a blog now ... and I can go back and add my other blog posts on here from other sites ... then I can publish the site all together and direct people to it. So any posts prior in time to now are from old sites ... any after now until a new technology comes along are on this site.
 
-[jekyll-posts]: https://jekyllrb.com/docs/posts/
+[jekyll-posts]: https://jekyllrb.com/docs/posts/#displaying-an-index-of-posts

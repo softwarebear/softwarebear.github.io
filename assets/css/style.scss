@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.post-date 
+{
+    text-align: right;
+    color: #ffcc00;
+}
+
+//#post-title {}
+
+#post-body p
+{
+    font-size: large;
+}
+
+#post-body h3
+{
+    color: #d8d8d8;
+    font-size: x-large;
+}
