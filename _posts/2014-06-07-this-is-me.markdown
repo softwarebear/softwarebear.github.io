@@ -1,0 +1,239 @@
+---
+layout: post
+title: This is me
+date: 2014-06-07T14:00:00Z
+categories: jekyll update
+---
+Hello !
+
+So .. finally I have succumbed to the blogging fever ... or maybe I've just realised that I've got a lot of stuff to say that can help others down the road of becoming a fantastic software engineer / crafter or happier human being.
+
+A little bit about me ... each topic is a thread ... going through things almost in chronological order ...
+
+# Big Red Gay Panda Bears
+
+![]({{ "/assets/img/red.jpg" | absolute_url }}){:class="img-small"}
+
+I was born in the middle of the summer of 1970 very close to the middle of England. Technically I guess this means I was conceived in the 1960s, this might explain my musical tastes.
+
+The first major revelation I had about the age of five was that I realised that I liked other boys in ways that I didn't like girls (I liked being with girls, I don't mean that) ... and quickly learnt this wasn't how everyone else felt and that I needed to hide it ... I spent the next 13 years hiding it ... which was extremely hard ... missing out on the childhood relationships simply because it would not have been allowed by my parents or the populous of the small town I grew up in.
+
+At 18 I decided I'd had enough hiding so I branched down the path of being myself and stuff what everyone else wants me to be ... I told my best friend ... he was fine with it ... I told more people ... they weren't so fine ... lost a lot of 'friends' ... found new ones.
+
+At 19 my mum found out, went ballistic, she and my brother ganged up on me to 'turn me straight' ... Dad was never told ... I complied whilst at home ... desperate to get back to University ... [from the frying pan into the fire unfortunately].
+
+I'm a big hairy guy ... hence the "bear" in my pseudonym ... as we gays love to label everything ... there are otters, cubs, foxes and all sorts of things ... but I'm most definitely a bear.
+
+I've always loved teddy bears and real life bears ... in fact if you want to get a feel for how much I love the cuteness of bears ... here are some pictures of a red panda ... if I could be a real bear ... this is what I would be ... because they are so damned cute ... and so am I.
+
+Damn it ... I just want to stare at those pictures now ... stop it.
+
+I wanted to get this out in the open right now ... upfront ... you might see as me 'shouting it from the rooftops' to quote my brother ... but it is what I am ... it touches everything I do ... I cannot turn it off ... as a poster I saw recently in Soho said ... "Some dinosaurs are gay, get over it !"
+
+And yes ... it really is you that needs to get over it ... move on with your life ... if you find it hard to accept a non-straight person as an equal ... and you don't want to try ... then don't bother talking to me.
+
+# Glasses
+
+The other major thing you'll notice about me is that I wear glasses ... I have done since I was 9 months old ... I was born with bilateral congenital cataracts ... astigmatism and short sightedness.
+
+I was knocked down by a van when I was 3 years old because I didn't see it when I ran out into the road ... I also probably didn't understand that was not a good idea at the time ... broke a leg ... lucky to be alive I guess.
+
+My mum had cataracts ... her brother has it ... my mysterious maternal grand-father had it ... our family tree has been studied by someone at Edinburgh University ... some like my mum have been operated on (she has lived most of her life with no lenses in her eyes).
+
+Something to do with genes ... according to my family tree some great-great-great-great-great relative decided to marry and have kids ... and then suddenly he appears to be marrying someone from a newer generation of the same family (most likely a niece but I haven't found the exact biological relationship yet)... my genes incorporating that branch
+
+My brother ... he didn't get it ... and believed that he was free from any problems and that his children were perfect and didn't need to be checked by a fully qualified optician like I did ... that's a shame because one of his kids spent years unable to see properly at school before he was hit by a bicycle in the street and people realised he couldn't see well enough ... I did tell him when he came to visit the my house one time that his child couldn't see properly because he was using his feet to judge the distance down a step and hesitating more than he should have done at that age ... just like I do now ... no his children were perfect and didn't need to ... who knows ... they might have caught the gay gene too.
+
+If you look into my eyes you'll see wide pupils ... no I'm not on cocaine ... I'm on atropine ... this widens my iris to let more light in around the cataract so that I can see ... but it lets too much light in .. that's why I wore very dark glasses as a child ... and everyone thought I was blind.
+
+I tried to stop using atropine a few years ago ... as it's not the most friendly drug to be taking constantly ... after two weeks the pain in my eyes was unbearable ...  I think it was from the inability to see rather than withdrawal symptoms ... :-) ... ho hum.
+
+If you've ever been to an opticians (I mean a real one, not Specsavers) .. then you'll often be given a few drops in your eyes that feel like your eyes are being dissolved out of their sockets ...
+
+The effective of those drops last a few hours at most ... the same dose of atropine lasts about a week for me ... my pupils contract fully within a few minutes and slowly release over that week.
+
+Then if you're really lucky they shine a bright light in your eyes for far too long ... to have a look at what's going on.
+
+That's why I wear a big hat that blocks the sun ... and try to use more everyday looking glasses ... news flash ... there are no sunglasses that work  ... obliterating the sun with a hat or turning my back on it or moving to the shade is the only effective option I have.
+
+But I'm still likely to walk straight past you in the street as though I ignored you ... because I have to concentrate where I'm putting my feet and take in the environment around me ... and avoid you rather than run into you ... so please forgive me ... once I get used to your general height / weight / colour / shape / dress sense I will be able to recognise you just the same as anyone else.
+
+It does have advantages ... I can stare at my monitors all day completely naturally because they are positioned exactly where my eyes need them to be ... it looks a bit odd to others ... but my eyes are probably under far less strain than your own because I'm so aware of it.
+
+Yes I could have my cataracts removed ... but surgeons don't believe I would see any better anyway ... and I could lose my eyesight through surgery risks anyway ... I'd rather not be blind if I can help it.
+
+My childhood surgeon advised me to wait as long as possible before I had any operation so that I would benefit form technological advances in lens implant technology.
+
+However so at age 45 I instigated investigations in doing this ... only to be told by another surgeon that these days they operate on babies to avoid the problem of the nerve/brain developing incorrectly around the visual cortex ... in other words they could remove the lense but it's likely it'll make no difference.
+
+This means I cannot drive a vehicle because I cannot see the number plate at the required distance ... I cannot see too well with my left eye ... which means I have to be based near public transport for home, work and play ... but I'd also kill people on the road driving a car because my eyes don't react to things quickly enough ... so no removal for me.
+
+I have recently also been diagnosed with Pigment Dispersion Syndrome, this means that my iris now is starting to lose its coloured cells which float off and block up the drainage channels in the eye, causing the internal pressure to increase, which causes glaucoma.
+
+Roll on Google Car ... but I guess one will still need to be able to drive just in case they go berserk.
+
+# Atheism
+
+I went to three levels of Catholic schools from 4 to 16 ... about 7 I decided I really didn't believe all this god stuff ... the words in the prayers and hymms weren't my words ... I saw religion causing mass problems around the world ... terrorism from the various factions in the Northern Ireland 'Troubles' hiding behind their gods, priests, fathers and vicars.
+
+Look ... if you don't believe my god you are going to go to hell ... if I don't believe in your god then I am going to hell ... we have just condemned every living human to an eternity in hell ... regardless of which god you believe in.
+
+Ergo there is no point believing in god ... when you're dead you're gone ... kaput ... nothing ... but the molecules/atoms/particles/waves/branes you borrowed whilst nature assembled them into a human form will live on in the universe for eternity doing their job elsewhere ... thank you for the loan of them, universe.
+
+If I'm really extremely lucky some of my borrowed particles might pass through a Red Panda one day ... wouldn't that be cool ... assuming we haven't killed them all with pollution or for food as we fight to stay alive on a planet too small for us to expand into .. because we waste time and resources on wars because of our religious beliefs .. rather than building a spaceship to transport us to remote planets to stop us being wiped out.
+
+Stop wasting your time in church or on the battlefield.
+
+# Computers
+
+About the age of thirteen I became interested in computers ... this is when the BBC Micro was all over the television in the UK and Sunday mornings were extremely boring because that was when I was supposed to be being a good christian and going to church ... because there literally was nothing else to do because the country shut down on a Sunday ... but the open university had a joint venture with the BBC to get the country using computers ... and had a TV programme on Sunday mornings ... it suddenly became the most interesting hour of the week for me.
+
+Our school had two of them ... and a Research Machines RM380Z ... and a teleprinter ... and a modem ... that could call Janet ... and a maths teacher ... Miss Lynne Jones ... who in her spare time ran a computer club.
+
+I want to thank you Miss Jones (Lynne I would like to call you but I haven't seen you since I last visited school over 20 years ago now and you no longer work there) ... you opened my eyes to the world of computing ... spent time helping a kid learn something fantastic ... and you set me down the path from which I made my life what it is ... I've never had a moment where I have wanted to give up doing what I do and do something else instead ... I've never had a day of work despite working in computing for 20 years ... computers are my life.
+
+You also defended me once against a few bullies at school who thought they were better than the fat blind kid ... a trait I now have in bucket loads ... and strive for fairness and equality for everyone.
+
+# Software
+
+I got my first computer at 14 ... a BBC Micro Model B ... and started learning how to program ... I used to write lots of graphing programs to help me plot the curves for my maths homework ... this turned into writing drawing programs ... both bitmap and vector based ... I got some joysticks and made those work with the drawing programs ... then I got a mouse ... and disk drives ... started writing bespoke database applications ... file systems ... machine code ... learning more and more stuff about the world of computers.
+
+I'd like to pay tribute to my brother at this point ... he was instrumental in persuading my father to allow me to spend 75% of my life savings to that point on computer ... and he added £50 leaving my father only needing to supply the other £50.
+
+My brothers argument at the time was that if I did get into the field of computing then I'd be sorted for life money wise ... so it was worth the risk.
+
+By this time I was already dismantling electronic things to see what was inside ... putting them back together again ... and they worked ... I think Dad found that a bit scary that I might spend more money on anything he'd ever bought for himself only to break it ... and he had no clue how to fix it if I did.
+
+So if my brother hadn't stuck up for me to be treated very differently to the way he himself had been treated ... forced to get work rather than go to college .. then I also probably wouldn't be writing this blog today.
+
+I took an 'O' level in computer studies at the local technical college on tuesday evenings ... because my school couldn't teach the 'O' level because Miss Jones only had an 'O' level in computing herself.
+
+I passed that at the age of 15.
+
+I then went to sixth form to do Maths, Physics and Computer Studies 'A' levels.
+
+I hadn't been taught a high enough level in maths and physics at school ... when my teachers suggested that I shouldn't go to college to do Maths ... and I guess I didn't realise that at the time ... but I got in probably because I knew more about computers than my teachers at the time ... I struggled with Physics greatly ... mostly because I didn't know enough Maths ... i dropped Physics 'A' level for a year and took an 'O' level in it instead whilst doing the other two ... then in the second year my Maths was up to scratch ... so I started the 'A' level Physics and took an 'AO' in Electronics too ... so after three years I had my three 'A' levels, an 'O' in Physics and an 'AO' in Electronics too.
+I also started to hear about the mystery illness that was killing gay people ... AIDS they called it ... all sounded very scary ... doom from god on the gays ... well see above about how much notice I took of that opinion.
+
+Physics should be compulsory education in place of any kind of religious studies.
+
+At 18 I got my hands on an eprom image of an early C programming language implementation the Beeb ... my first taste of the real world of programming.
+
+# Life, Death, Friends and Lovers
+
+By this time all four grandparents were dead ... I'd only known three of them anyway ... I was the youngest in my generation ... my father was a third generation only child ... my mother didn't talk to her side of the family ... I grew up with my older brother really ... so we were pretty isolated apart from a few close family friends ... everyone remarked how mature and grown up I was ... I think that comes with not leading the idillic childhood experience.
+
+Since then my life has been tinged by various deaths over time.
+
+My father was a hard working man ... I think this is where I get it from ... for most of his life before I was born he was a carpenter and joiner ... buying a house for us to live in and support the family was a struggle ... and then he started to get ill regularly ... the doctors discovered that he was allergic to cedar wood ... a common material in construction of houses ... the area where he worked ... so he had to give up his job ... luckily he knew someone who worked at Jaguar cars ... so from around the time I was born he was working as a quality control and car dispatch driver ... giving the cars a final quality check upon leaving the production line and driving the cars around to the parking area where they then went off to be collected for distribution to their final destinations.
+
+I remember him working nights ... weekends ... days ... throughout it we always had enough to eat ... and we owned our own home ... slowly slowly we started to gain extra luxuries ... we bought a second hand caravan and upgraded the car to pull it when I was about 6 ... then we used that caravan about 20 times a year going away for weekends and the usual week or two week holidays when the factory closed with the Jaguar Caravan and Camping Club ... very cheap holidays ... but still we had to choose wisely which holiday we were doing each year ... we hardly ever bought ready made sandwiches at a supermarket ... once I remember eating out at a cafe and I don't ever remember going to a restaurant with my parents other than for my brothers wedding ... when we got a fridge for the kitchen ... I was about 16 ... we got a colour television ... I was 18 ... and no ... this wasn't in the 1960s ... it was the late 1980s ... it was 1994 when my mum got a telephone installed ... after dad died and I managed to convince her she could afford it ... we didn't have a lot of money to splash around.
+
+Just before my final year exams at University my father died ... he had seen me start my career in computing at Hewlett Packard during my third year thick sandwich degree placement ... earning roughly the same salary as he did ... at that time he was earning the highest salary he'd ever earnt in his life at the time ... so my brothers predictions were already bearing fruit ... a year later I started another job on 1.5 times his salary ... I now lived in a different world to my humble upbringing.
+
+I remember the last physical contact we had was him proudly shaking my hand as he said goodbye just after dropping me off for my last full term at university and me feeling that I just wanted to hug him ... but don't ever remember ever having done so ... often I'd spent the hour long journey silently crying in the back of the car at the despair of having to go back to the living hell for another ten weeks ... but the third year was the happiest and best of the lot ... some of the idiots around me had finally grown up and were not afraid to talk to me for fear of being labelled as gay themselves ... some of them had finally experienced death themselves ... it puts life into perspective.
+
+My father had a heart attack brought on by the sarcoidosis he acquired from wood dust ... he went into hospital for a few days ...  finally he had another heart attack that finished him off ... the next day my brother knocked on my door at university ... I opened the door and was surprised ... he just stood there ... there was no other reason for him to be there ... I looked at him and said ... "Dad's dead isn't he?" ... he just collapsed weeping into my arms and we stood hugging and crying for a while .... with me re-assuring him that everything would be ok ... apparently no-one wanted to bother me at uni with the news that my father was dying ... he must have been wondering why the hell I wasn't visiting him in hospital ... it was because nobody told me Dad ... I couldn't phone home because we didn't have a telephone ... but they could have contacted me very easily ... the hall had pay phones ... the university staff knew where I lived ... they just didn't want me there.
+
+A year or so after finishing University, I met the first people I ever met who i knew to be HIV+ ... I am still in awe of their bravery in the face of adversity ... and how easily they managed to get hold of cannabis too ... by this time I was living in Oxford with my first partner ... they were his friends from way back ... Pat and Nigel.
+
+About this time the probate had been sorted from Dad's will ... and to my complete surprise he had left me a small sum of money through his life insurance ... about £4000... that money went into a bank ... but shortly after I used it as part of a deposit on a house I bought in Maidenhead with my partner at the time ... boy that was a scary thing to do ... and suddenly I was all growed up.
+
+My mother and brother came to view the house I bought and dissed the place immediately ... saying I'd done a stupid thing ... hating the house completely ... also I think they were pissed off that I was living with a guy ... cus a few years earlier they'd both ganged up on me to try to bully me into being straight when they found out I was gay after mum rifled through my stuff when I was out working one day ... and here I was being gay again ... how very dare you.
+
+I later sold the house for nearly three times what I bought it for ... so I don't think I did a bad job. I think the biggest problem was that I bought the house for twice the price my brother paid for their house ... and nearly 40 times the price of my parents house when they bought theirs ... it was a reality check for them on the cost of living where I needed to live in order to work in the job I wanted to do.
+
+Anyway Pat and Nigel were the sweetest guys alive ... clearly loved each other to bits ... I got to know them fairly well and joined their circle of friends ... coincidentally they had lived in Maidenhead before Oxford ... not far from where I bought the house ... Nigel died a few years after I met them ... Pat carried on for about five more years after that ... but I only saw him once during that time ... he didn't really want to be seen ... but I remember our last time together we great fondness ... lots of hugs and warmth ... they were crazy dudes and I love them and miss them.
+
+Pat died in 2003 ... the same year as my uncles partner ... and another mutual friend of Pat and Nigel fame I found out after the event at a random party I had been invited to ... and the same year my second partner of three years ... David ... also died.
+
+That was the biggest head fuck I've ever had ... woke up in the morning ... kissed him goodbye and went to work ... phoned him at lunch time and realised that he was about to have an epileptic fit ... I could always tell when he was going to have one ... but they only happened about once every six months or so  ... tried to make him as safe as possible before it happened ... I got into the habit of talking to him and telling him he was about to have a fit and that everything was ok ... even though he couldn't answer me ... his eyes seemed to communicate with me and show me he trusted me to do my best to help.
+
+A colleague at work drove me home after hearing me try to talk David out of the fit ... when we got there David was in the bedroom ... clearly just recovering from the fit he had alone ... the whole process would take about an hour.
+
+I stayed with him a little while till he was lucid and normal again ... then stupidly I went back to work with my colleague ... stupid stupid fucking stupid bear ... never let work become so consuming that you do stuff like that ... when I got home David was dead and my world crumbled into mush whilst I went through the process of sorting out the funeral ... helping his mum and sister cope ... helping myself cope ... trying to stop my mum and brother trying to persuade me to be heterosexual again (not for the first time) ... picking up his ashes from the funeral home (they weigh a ton ... don't be fooled by the stuff on the telly) ... attending the inquest into his death ... spreading his ashes around Grenfell Park in Maidenhead one full moon night ... David loved sitting in the park watching the world go by after he came back from work and college.
+
+He was so scared to tell me he had epilepsy ... I remember the phone calls at the start of our short distance relationship before he moved in ... I reassured him it was not a problem and immediately went out and bought a load of books on epilepsy (the internet still wasn't brilliant then) ... I knew more than he wanted to know by the end of those ... I still didn't spot the signs of his first fit in my presence ... that was fucking scary ... the first time I saw someone stop breathing and go blue ... it wasn't the last time I saw him fit ... each time it happened was slightly different and scary but with common elements ... only once did I call for an ambulance because he had three fits in a row ... the last time I saw him not breathing and blue was different ... he was cold and stiff ... face down on the kitchen floor ... when I eventually managed to roll him over and attempt CPR as the person on the phone was instructing me to ... I could tell from his eyes that he was gone ... he never started breathing and didn't turn pink that time ... that was the start of the chaos into which my personal life descended.
+
+I love you David ... and although I have forgiven myself ... I still find the world empty without you sometimes ... mostly when I look at your picture ... which happens fairly frequently ... I seem to remember something about you and smile every day.
+
+Four people I knew very well had died in the space of four months ... fuck me.
+
+That's when I found a fantastic organisation called the Edward Carpenter Community ... they pretty much pieced me back together over the space of a week ... I'll never forget the first hug I got on that first week ... I guess the person that gave it to me won't forget it either ... thank you.
+
+About 8 years earlier ... I met a guy in The Jolly Farmers ... a gay pub in Oxford ... who is degreed up to his eye balls in Physics ... can animate theories just by speaking and waving his arms around ... and as gay as a goose ... told me about an organisation that whisks a bunch of guys away to the lake district to have a gay old time for a week ... it sounded fantastic but I never looked into it ... this was whilst I was working in Didcot Parkway at my first job after graduating ... this guy works at the Rutherford Appleton labs ... he gave me his email address ... it ended in @rl I recall (or something equally strange to how they are today) ... that's a really old dns domain from the Janet network ... a reminder from my school days of that modem that could call Janet ... the organisation he told me about turned out to be the same Edward Carpenter Community and we did eventually enjoy a week at the same event together but he didn't remember me yet was surprised I knew stuff about him that he'd told me that fascinated me and I'd remembered.
+
+I found a new family in the ECC ... and I attended a total of about 8 week holidays with them ... I co-organised three holidays with two other men for a group of 30 men up in the Wastwater youth hostel ... by way of returning something back to the organisation that had helped me cope at a very dark period of my life.
+
+4 years ago (2010) on good friday (bad friday as it turned out) my brother committed suicide ... still have no idea why ... he would talk to me about stuff ... but it was never anything deep and meaningful ... he had a huge difficulty with me being gay ... even though I could make him see that his logic was flawed ... he still persisted in his belief that really I should be straight and get married ... he never left the backwards little town I grew up in for anything more than a holiday here and there and to commute to work.
+
+He died quite dramatically about 10ish in the morning ... was flown to hospital ... lots of drama ... hang on for a few hours ... then died.
+
+My mother called my uncle the next day ... to tell him what had happened ... unbeknownst to my mother ... both my uncles were staying with Orlando and me to visit the Ideal Home exhibition the following day ... my uncle told me immediately what my mother had just told him.
+
+The first thing I said ... "the selfish cunt" ... because the first thing that spring to mind was the kids and his wife and instantly re-living the aftermath of David dying.
+
+My mother did not tell me my brother had died until the day afterwards. I could have travelled up to be by his bedside to make a difference had anyone bothered to tell me.
+
+I miss you Andrew ... really I do ... I never stopped loving you despite you driving me almost insane ... in two years I will be the older brother ... that is a very strange feeling ... I'll look out for my nephews too ... one of which also seems to want to work in the software industry ... I'll do my best to guide him down a good path.
+
+Recently I went to the wedding of my brother's wife to a new guy ... life carries on ... I wish the new family unit well and will remain friends with my now ex-sister-in-law and her new family.
+
+Blimey ... that topic was a big one ... and rightly so ... life and death are important events ... don't be consumed by work ... know when to go home.
+
+# TaeKwon-Do
+
+In parallel with starting college I also started learning TaeKwon-Do.
+
+To be honest the reasons for doing so were initially a bit dubious.
+A son of a guy that owned the local corner shop (that closed on thursday afternoons and sundays because of a god) who was probably ten years older than me ... was amazingly cute ... and red hair ... terribly straight ... and a black belt 2nd dan in TaeKwon-do.
+
+A guy I went to school with attended the same classes as the shop guy ... he was cute too ... so was his brother I soon discovered ... both were green belts.
+
+So I went along to see what they got up to ... found out that I was taking lessons from Grand Master Dave Oliver (now a 9th Dan, he's the guy directly underneath the DO in the picture) ... a world renowned instructor who just happened to come teach TKD at the school I had just left for college in my backwards home town.
+
+My brother tried it for a very brief period too ... he didn't like it as much as I did ... I think he got his yellow tag but gave up after that.
+
+After five years on and off I became a red belt in TaeKwon-Do (two grades from 'black belt')... the reason I stopped is because I had dislocated both shoulders and had my nose smashed in by this point ... also it was difficult to attend regularly as I was moving around so much and public transport is not good in 'rural' places like Loughborough.
+
+I love martial arts ... asia ... the beautiful people that have roots in that land ... and stocky butch guys that I wouldn't have thought for a moment could possibly be gay like me ... because gays were effeminate and weak as far as my social environment and mother and brother kept telling me ... how wrong they are.
+
+# Bear-iversity
+
+Whilst in my third year at college I started applying for Universities ... as I knew I would need a degree to do it ... there was no-where for a public transport bound bear cub to work locally ... I wouldn't have been able to get an apprenticeship or get a job without experience.
+
+I visited Loughborough once through a visit to an afternoon of Physics lectures ... and when I went back to visit it for an overnight prospective student visit to try it out ... I really liked the place ... very green and open campus ... lots of space ... and plenty of room for students to live on campus ... no need to travel anywhere ... lots of nice eye candy playing rugby and tennis as I recall ... perfect for an almost blind gay bear.
+
+I applied and was successful ... I lived in Telford Hall for three years and my life there was complete hell ... I couldn't have chosen a University filled with more homophobic students if I tried ... except maybe one of those religious places 8-).
+
+Even the gay people there were hostile ... I was a big fat hairy bear ... the bear scene didn't exist then ... and I didn't fit in cause I wasn't young, thin and beautiful.
+
+Despite the living hell I endured in halls ... I scraped through with a First Class Honours degree in Computing ... at least I had a goal to achieve to get me away from my tiny 'everyone knows everyone' home town and the even worse fellow small brained students.
+
+I want to thank the few real friends I made at Loughborough who got me through uni and the period after my father died ... some are lost in the mists of time ... some I keep a vague contact through Facebook or Google+ ... we all have such busy lives.
+
+So at uni I learnt far too much group theory maths and AI ... logical circuitry ... but best of all ... C  & C++.
+
+At HP I learnt about QA ... something that has been the backbone of my career since.
+
+# Cooking
+
+From about the age of eleven I remember cooking breakfast for mum and myself before I cycled off to school ... full blown porridge, omelettes, bacon, beans, toast (not all at once) ... not just milk and cereals.
+
+I prefer to spend the time constructing a meal from it's components rather than buy a ready made meal ... I loathe spending money on restaurants ... which I do go to fairly frequently now ... I'd much rather buy really good unusual ingredients and make something nice myself and it still cost less than eating it in a restaurant.
+
+# Coming up to date
+
+I currently live in London with my life partner of nearly ten years standing ... my lovely Orlando ... we met in Cardiff on the gay scene over there ... which is lovely ... much nicer and friendlier than London ... although London is starting to pull it's head out of it's arse and realise that we are all part of the same family ... or maybe I'm just getting older and going to different places where people are more friendly anyway.
+
+Orlando is a lovely man ... extremely hard working ... and totally dedicated to helping others ... he's currently an Accident and Emergency nurse in central London and loving every minute of it.
+
+We are home birds mostly ... we really enjoy living together and couldn't be any more happier ... except for winning the lottery ... which we don't play very often as we never win.
+
+We're on our third property ... moving from Maidenhead to Reading and now to London ... commuting has become very expensive ... and we'd rather spend the money on fun things and have more time together than train fares and commuting.
+
+We have a lovely petite cat ... Angel ... who occasionally comes to us for some love ... but she is mostly a free spirit ... except when she's hungry ... she has a lovely boyfriend who occasionally pops around for tea and a chat ... we did think she was lesbian for a while ... but we do approve of Cimba ... he's quite chunky and very cute.
+
+I currently work for 1E ... this is the first company I have worked for that has taken the radical very latest approaches to software engineering and run with them.
+
+Here I have learnt all about Test Driven Development and it has totally changed the way I write software. 
