@@ -12,8 +12,6 @@ A little bit about me ... each topic is a thread ... going through things almost
 
 # Big Red Gay Panda Bears
 
-![]({{ "/assets/img/red.jpg" | absolute_url }}){:class="img-small"}
-
 I was born in the middle of the summer of 1970 very close to the middle of England. Technically I guess this means I was conceived in the 1960s, this might explain my musical tastes.
 
 The first major revelation I had about the age of five was that I realised that I liked other boys in ways that I didn't like girls (I liked being with girls, I don't mean that) ... and quickly learnt this wasn't how everyone else felt and that I needed to hide it ... I spent the next 13 years hiding it ... which was extremely hard ... missing out on the childhood relationships simply because it would not have been allowed by my parents or the populous of the small town I grew up in.
@@ -21,6 +19,8 @@ The first major revelation I had about the age of five was that I realised that 
 At 18 I decided I'd had enough hiding so I branched down the path of being myself and stuff what everyone else wants me to be ... I told my best friend ... he was fine with it ... I told more people ... they weren't so fine ... lost a lot of 'friends' ... found new ones.
 
 At 19 my mum found out, went ballistic, she and my brother ganged up on me to 'turn me straight' ... Dad was never told ... I complied whilst at home ... desperate to get back to University ... [from the frying pan into the fire unfortunately].
+
+![]({{ "/assets/img/red panda face on.jpg" | absolute_url }}){:class="img-small-right"}
 
 I'm a big hairy guy ... hence the "bear" in my pseudonym ... as we gays love to label everything ... there are otters, cubs, foxes and all sorts of things ... but I'm most definitely a bear.
 
@@ -50,9 +50,11 @@ I tried to stop using atropine a few years ago ... as it's not the most friendly
 
 If you've ever been to an opticians (I mean a real one, not Specsavers) .. then you'll often be given a few drops in your eyes that feel like your eyes are being dissolved out of their sockets ...
 
-The effective of those drops last a few hours at most ... the same dose of atropine lasts about a week for me ... my pupils contract fully within a few minutes and slowly release over that week.
+![]({{ "/assets/img/red panda in tree.jpg" | absolute_url }}){:class="img-small-left"}
 
-Then if you're really lucky they shine a bright light in your eyes for far too long ... to have a look at what's going on.
+The effect of those drops last a few hours at most ... the same dose of atropine lasts about a week for me ... my pupils contract fully within a few minutes and slowly release over that week.
+
+Then if you're really lucky they shine a bright light in your eyes for far too long to have a look at what's going on.
 
 That's why I wear a big hat that blocks the sun ... and try to use more everyday looking glasses ... news flash ... there are no sunglasses that work  ... obliterating the sun with a hat or turning my back on it or moving to the shade is the only effective option I have.
 
@@ -77,6 +79,8 @@ Roll on Google Car ... but I guess one will still need to be able to drive just 
 I went to three levels of Catholic schools from 4 to 16 ... about 7 I decided I really didn't believe all this god stuff ... the words in the prayers and hymms weren't my words ... I saw religion causing mass problems around the world ... terrorism from the various factions in the Northern Ireland 'Troubles' hiding behind their gods, priests, fathers and vicars.
 
 Look ... if you don't believe my god you are going to go to hell ... if I don't believe in your god then I am going to hell ... we have just condemned every living human to an eternity in hell ... regardless of which god you believe in.
+
+![]({{ "/assets/img/red panda tongue.jpg" | absolute_url }}){:class="img-small-right"}
 
 Ergo there is no point believing in god ... when you're dead you're gone ... kaput ... nothing ... but the molecules/atoms/particles/waves/branes you borrowed whilst nature assembled them into a human form will live on in the universe for eternity doing their job elsewhere ... thank you for the loan of them, universe.
 
@@ -132,6 +136,8 @@ I remember him working nights ... weekends ... days ... throughout it we always 
 Just before my final year exams at University my father died ... he had seen me start my career in computing at Hewlett Packard during my third year thick sandwich degree placement ... earning roughly the same salary as he did ... at that time he was earning the highest salary he'd ever earnt in his life at the time ... so my brothers predictions were already bearing fruit ... a year later I started another job on 1.5 times his salary ... I now lived in a different world to my humble upbringing.
 
 I remember the last physical contact we had was him proudly shaking my hand as he said goodbye just after dropping me off for my last full term at university and me feeling that I just wanted to hug him ... but don't ever remember ever having done so ... often I'd spent the hour long journey silently crying in the back of the car at the despair of having to go back to the living hell for another ten weeks ... but the third year was the happiest and best of the lot ... some of the idiots around me had finally grown up and were not afraid to talk to me for fear of being labelled as gay themselves ... some of them had finally experienced death themselves ... it puts life into perspective.
+
+![]({{ "/assets/img/red panda and cub.jpg" | absolute_url }}){:class="img-small-left"}
 
 My father had a heart attack brought on by the sarcoidosis he acquired from wood dust ... he went into hospital for a few days ...  finally he had another heart attack that finished him off ... the next day my brother knocked on my door at university ... I opened the door and was surprised ... he just stood there ... there was no other reason for him to be there ... I looked at him and said ... "Dad's dead isn't he?" ... he just collapsed weeping into my arms and we stood hugging and crying for a while .... with me re-assuring him that everything would be ok ... apparently no-one wanted to bother me at uni with the news that my father was dying ... he must have been wondering why the hell I wasn't visiting him in hospital ... it was because nobody told me Dad ... I couldn't phone home because we didn't have a telephone ... but they could have contacted me very easily ... the hall had pay phones ... the university staff knew where I lived ... they just didn't want me there.
 
@@ -189,6 +195,8 @@ To be honest the reasons for doing so were initially a bit dubious.
 A son of a guy that owned the local corner shop (that closed on thursday afternoons and sundays because of a god) who was probably ten years older than me ... was amazingly cute ... and red hair ... terribly straight ... and a black belt 2nd dan in TaeKwon-do.
 
 A guy I went to school with attended the same classes as the shop guy ... he was cute too ... so was his brother I soon discovered ... both were green belts.
+
+![]({{ "/assets/img/tagb instructors.jpg" | absolute_url }}){:class="img-small-left"}
 
 So I went along to see what they got up to ... found out that I was taking lessons from Grand Master Dave Oliver (now a 9th Dan, he's the guy directly underneath the DO in the picture) ... a world renowned instructor who just happened to come teach TKD at the school I had just left for college in my backwards home town.
 

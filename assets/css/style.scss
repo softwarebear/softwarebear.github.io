@@ -22,10 +22,16 @@
     font-size: large;
 }
 
-.img-small
+.img-small-left
+{
+    height: 200px;
+    float: left;
+    margin: 7px 7px 7px 7px;
+}
+
+.img-small-right
 {
     height: 200px;
     float: right;
-    margin-right: 7px;
-    margin-top: 7px;
+    margin: 7px 7px 7px 7px;
 }
