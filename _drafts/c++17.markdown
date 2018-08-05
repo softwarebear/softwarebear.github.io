@@ -1,0 +1,40 @@
+---
+layout: post
+title: C++17
+date: 2018-06-09T12:00:00Z
+categories: jekyll update
+---
+
+A place for me to log stuff about the C++ 17 changes.
+
+# New Stuff
+
+## Structured Binding
+
+```cpp
+{a,b} =
+```
+
+## Automatic type deduction for constructors 
+Instead of the extremely painful and totally unnecessary (in C++17) ...
+
+```cpp
+std::lock_guard<std::recursive_mutex> lock(mutex);
+```
+
+... we can now write ...
+
+```cpp
+std::lock_guard lock(mutex);
+```
+
+... phew ... more crud can be deleted.
+
+## std::byte
+## std::variant<>
+## std::optional<>
+## std::any
+## std::string_view
+
+# Changed Stuff
+# Deprecated Stuff
