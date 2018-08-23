@@ -69,4 +69,4 @@ typedef enum { WM_LBUTTONDOWN=0x0201, WM_LBUTTONUP=0x0202,
 
 ... the beauty of this is that the EVENT_CODE_GENERATOR can be reused for many things like generating human readable strings or function definitions for these events ... and the SELECTOR parameter can be given a nice name that flows with the code in context around it.
 
-A fuller example can be found at [Compiler Explorer](https://godbolt.org/z/QAl4Kv){:target="_blank"}
+A fuller example can be found at [Compiler Explorer](https://godbolt.org/z/QAl4Kv){:target="_blank"} or if that is tampered with then on my github repo [Zesty X Macro Repo](https://github.com/softwarebear/zestyxmacro.git){:target="_blank"}
