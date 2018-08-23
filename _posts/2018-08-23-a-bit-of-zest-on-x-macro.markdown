@@ -39,7 +39,7 @@ The zest that I add for the world on the X Macro pattern is this ... and using t
     X(value3)
 ```
 
-... but when I used it tend to be a bit more descriptive ... and I also tend to group many related things together ... to illustrate I use a familiar if artificial example ... in the definition of where I want to gather the related information I define a destributor that takes a selector ...
+... but when I used it tend to be a bit more descriptive ... and I also tend to group many related things together ... to illustrate I use a familiar if artificial example ... in the definition of where I want to gather the related information I define a generator that takes a selector ...
 
 ```cpp
 #define EVENT_CODE_GENERATOR(SELECTOR) \
