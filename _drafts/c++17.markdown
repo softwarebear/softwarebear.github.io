@@ -101,11 +101,60 @@ while (auto someThing = someFunc(); someThing.continue()) // error
 {...}
 ```
 
-... someThing would be re-created each time around the loop ... what you really want is a for statement.
+... someThing would be re-created each time around the loop ... what you really want is a for statement (ditto for do-while).
 
-## std::byte
-## std::variant<>
-## std::optional<>
+## A Standard Byte
+
+How could this have taken so long ... maybe it had to wait for *enum class* to come along (new in C++11) as this is how it is defined ...
+
+```cpp
+enum class byte : unsigned char {} ;
+```
+
+... and used thusly ...
+
+```cpp
+#include <cstddef>
+
+std::byte b { 0xff };
+```
+
+[std::byte](https://en.cppreference.com/w/cpp/types/byte){:target="_blank"}
+
+## Variety is the spice of life
+
+A std::variant<> is a new template that can exactly one object of a fixed type from a set of [non-unique] type alternatives.
+
+This also describes a type-safe union.
+
+```cpp
+std::variant<std::byte, int, std::string> defaultVariant; 
+// var is actually holding a byte (the first type specified) with byte's default value
+
+std::variant<std::byte, int, std::string> stringVariant{"Hello world"};
+```
+
+It is possible to make a variant hold nothing by using std::monostate as an alternative type ... this is a special structure designed explicitly for the purpose as it is empty and well behaved (unlike void).
+
+Variants can be used to eliminate run time inheritance, in some situations this is desirable for performance reasons.
+
+[std::variant<>](https://en.cppreference.com/w/cpp/utility/variant/variant){:target="_blank"}
+[std::monostate](https://en.cppreference.com/w/cpp/utility/variant/monostate){:target="_blank"}
+
+## Too many options
+
+A class that can store exactly zero or one object of a single type would be a std::optional<>.
+
+```cpp
+std::optional<std::string> emptyString;
+std::optional<std::string> nonEmptyString{"Hello world"};
+
+bool negative = emptyString.has_value();
+bool positive = nonEmptyString.has_value();
+```
+
+[std::optional<>](https://en.cppreference.com/w/cpp/utility/optional){:target="_blank"}
+
 ## std::any
 ## std::string_view
 ## inline variables
