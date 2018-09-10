@@ -1,19 +1,58 @@
 ---
 layout: post
-title: C++17
-date: 2018-06-09T12:00:00Z
+title: Changes in C++17
+date: 2018-09-10T12:00:00Z
 categories: jekyll update
 ---
 
-A place for me to log stuff about the C++ 17 changes.
+I attended ACCU 2018 as mentioned in two other blog posts also on here, along with a pre-conference day with Nicolai Josuttis entitled Modern C++ (C++ 17).
+
+This blog post attempts to cover all the things I discovered on that day along with other relevant information.
+
+# Sources of information
+
+[Overview of current status of C++ standardisation](http://isocpp.org/std/status){:target="_blank"}
+
+[ISO General C++ website](http://isocpp.org/std){:target="_blank"}
+
+[ISO C++ Standards Website](http://www.open-std.org/jtc1/sc22/wg21){:target="_blank"}
+
+[ISO C++ Standards Committee](http://www.isocpp.org/std/the-committee){:target="_blank"}
+
+[CPP Reference](http://cppreference.com){:target="_blank"}
 
 # New Stuff
 
-## Structured Binding
+## Structured Bindings
+
+In my view these really help developers to add descriptions to code flow, they are syntactic sugar really, essentially an alias for a potentially far more complex abstraction, but they don't have to be references.
+
+Where you might have had this (at best) ...
 
 ```cpp
-{a,b} =
+const auto& result = someMap.insert(somePair(someKey, someValue));
+
+const auto& keyIterator = result.first;
+const auto& wasInserted = result.second;
 ```
+
+... we can now write this ...
+
+```cpp
+const auto& [keyIterator, wasInserted] = someMap.insert(somePair(someKey, someValue));
+
+if (wasInserted) { ... }
+```
+
+These bindings latch on to anything that has structure with a corresponding number of data members, like class/struct, pair, tuples and array types. If there is a mismatch in the number of elements then a compiler error ensues.
+
+An extremely convenient construct for iterating dictionaries is ...
+
+```cpp
+for (const auto& [key,value] : someDictionary) { ... }
+```
+[Structured Bindings on CppReference](https://en.cppreference.com/w/cpp/language/structured_binding){:target="_blank"}
+
 
 ## Automatic type deduction for constructors 
 Instead of the extremely painful and totally unnecessary (in C++17) ...
