@@ -31,6 +31,8 @@ This blog post attempts to cover all the things I discovered on that day along w
 
 # New Stuff
 
+In this section I wil highlight the new things that came along in C++ 17.
+
 ## Structured Bindings
 
 In my view these really help developers to add descriptions to code flow, they are syntactic sugar really, essentially an alias for a potentially far more complex abstraction, *but they don't have to be references*.
@@ -206,3 +208,7 @@ std::lock_guard lock(mutex);
 using Base::A, Base::B;
 
 # Deprecated Stuff
+
+In this section I will highlight some of the things that were deprecated
+
+# 
