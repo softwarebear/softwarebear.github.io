@@ -1,0 +1,208 @@
+---
+layout: post
+title: Changes in C++17
+date: 2018-09-10T12:00:00Z
+categories: jekyll update
+---
+
+As mentioned in earlier posts, I attended ACCU 2018 but the day before there are some pre-conference sessions to get a more indepth understand of a particular topic. I've spend a day with Raspberry Pi's the first conference I did.
+
+This time I attended a day with Nicolai Josuttis entitled "Modern C++ (C++ 17)".
+
+This blog post attempts to cover all the things I discovered on that day along with other relevant information, distilled, mostly to act as a prompt for myself and others about what is available.
+
+
+**WARNING : This post is incomplete ... this is a big subject**
+
+
+# Sources of Information
+
+[Overview of current status of C++ standardisation](http://isocpp.org/std/status){:target="_blank"}
+
+[ISO General C++ website](http://isocpp.org/std){:target="_blank"}
+
+[ISO C++ Standards Website](http://www.open-std.org/jtc1/sc22/wg21){:target="_blank"}
+
+[ISO C++ Standards Committee](http://www.isocpp.org/std/the-committee){:target="_blank"}
+
+[CPP Reference](http://cppreference.com){:target="_blank"}
+
+[C++17 final (almost) draft](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4659.pdf){:target="_blank"}
+
+# New Stuff
+
+## Structured Bindings
+
+In my view these really help developers to add descriptions to code flow, they are syntactic sugar really, essentially an alias for a potentially far more complex abstraction, *but they don't have to be references*.
+
+Where you might have had this (or far worse) ...
+
+```cpp
+const auto& result = someMap.insert(somePair(someKey, someValue));
+
+const auto& keyIterator = result.first;
+const auto& wasInserted = result.second;
+
+if (wasInserted) { ... }
+```
+
+... we can now write this ...
+
+```cpp
+const auto& [keyIterator, wasInserted] = someMap.insert(somePair(someKey, someValue));
+
+if (wasInserted) { ... }
+```
+
+These bindings latch on to anything that has structure with a corresponding number of data members, like ***class/struct***, ***std::pair***, ***std::tuple*** and ***std::array*** types. If there is a mismatch between the number of elements on either side of the '=' then a compiler error ensues.
+
+An extremely convenient construct for iterating dictionaries is ...
+
+```cpp
+for (const auto& [key,value] : someDictionary) { ... }
+```
+[Structured Bindings on CppReference](https://en.cppreference.com/w/cpp/language/structured_binding){:target="_blank"}
+
+## Optional Initialization Statements
+
+So you are probably used to doing this ...
+
+```cpp
+for (auto i = 0; i < 10 ; i++) {...}
+```
+
+... you can now do this in ***if*** statements (with the help of an optional **init-statement** ...
+
+```cpp
+if (auto i = someFunc(); i < 10) 
+{ /* i in scope here */ } 
+else if (i > 90) 
+{ /* and here */ } 
+else 
+{ /* and here */ }
+
+// but not here
+```
+
+... and ***switch*** statements ...
+
+```cpp
+switch (auto someThing = someFunc(); someThing.Level()) 
+{
+    case One:
+    {
+        /* someThing is in scope here */
+        break;
+    }
+    ...
+}
+
+// but not here
+```
+
+... but you cannot do this ...
+
+```cpp
+while (auto someThing = someFunc(); someThing.continue()) // error
+{...}
+```
+
+... ditto for ***do {...} while***.
+
+## A Standard Byte
+
+How could this have taken so long ... this is how it is defined ...
+
+```cpp
+enum class byte : unsigned char {} ;
+```
+
+... and can be used as follows ...
+
+```cpp
+#include <cstddef>
+
+std::byte b { 0xff };
+```
+
+[std::byte](https://en.cppreference.com/w/cpp/types/byte){:target="_blank"}
+
+## Variety is the spice of life
+
+***std::variant<>*** is a new template that can be exactly one object of a fixed type from a set of [non-unique] type alternatives.
+
+This also describes a type-safe ***union***.
+
+```cpp
+std::variant<std::byte, int, std::string> defaultVariant; 
+// var is actually holding a byte (the first type specified) with byte's default value
+
+std::variant<std::byte, int, std::string> stringVariant{"Hello world"};
+```
+
+It is possible to make a ***std::variant*** hold nothing by using ***std::monostate*** as an alternative type ... this is a special structure designed explicitly for the purpose as it is empty and well behaved (unlike void).
+
+Variants can be used to eliminate run time polymorphism, in some situations this is desirable for performance reasons.
+
+[std::variant<>](https://en.cppreference.com/w/cpp/utility/variant/variant){:target="_blank"}
+[std::monostate](https://en.cppreference.com/w/cpp/utility/variant/monostate){:target="_blank"}
+[static polymorphism](https://www.bfilipek.com/2018/06/variant.html#polymorphism){:target="_blank"}
+
+## Too many options
+
+***std::optional<>*** is a class that can store exactly zero or one object of a single type.
+
+```cpp
+std::optional<std::string> emptyString;
+std::optional<std::string> nonEmptyString{"Hello world"};
+
+bool negative = emptyString.has_value();
+bool positive = nonEmptyString.has_value();
+```
+
+[std::optional<>](https://en.cppreference.com/w/cpp/utility/optional){:target="_blank"}
+
+## std::any
+## std::string_view
+## inline variables
+statics in headers
+## new value categories (glvalue, prvalue)
+## mandatory RVO (return value optimisation) and copy elision
+## aggregates initialization
+Derived d{ {base1, base2}, derived3 }
+## constexpr Lambdas
+## attributes
+## nested namespaces
+namespace A::B::C {...}
+## aligning heap allocations
+## __has_include
+## utf8 
+## hexadecimal floating point literals
+## type traits can return values
+## compile time if (inside and outsite template definitions)
+## two phase translation of templates (definition time and instantiation time)
+## fold expressions
+## std::launder
+
+# Changed Stuff
+
+## Automatic type deduction for constructors
+Instead of the extremely painful and totally unnecessary (in C++11) ...
+
+```cpp
+std::lock_guard<std::recursive_mutex> lock(mutex);
+```
+
+... in C++17 we can now write ...
+
+```cpp
+std::lock_guard lock(mutex);
+```
+
+... phew ... I always wondered why I needed to repeat myself ... and also it allowed more scope for compilation errors ... I love this change.
+## class template argument deduction
+## static_assert doesn't need a message anymore
+## using declarations can be in list form
+using Base::A, Base::B;
+
+# Deprecated Stuff
